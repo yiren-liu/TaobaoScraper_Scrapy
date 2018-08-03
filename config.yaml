@@ -1,0 +1,12 @@
+client_id: 52WLUTWQRHMX3RQVKT1OPJGBXGYKWMX1PBGS2PARYDXTB2RV
+client_secret: E0ATBEBUZFIJ1PWGH52MAX0CJFVMGZPJ1IX0WVAY5TVWBTHV
+
+
+
+left_bound: -122.516441
+bottom_bound: 37.702072
+right_bound: -122.35276
+top_bound: 37.811818
+
+# Number of API calls to /venue endpoint will be grid_size^2
+grid_size: 100
